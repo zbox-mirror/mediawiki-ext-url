@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/mediawiki-ext-url",
+  "name": "zmarket/mediawiki-ext-url",
   "type": "mediawiki-extension",
   "description": "MediaWiki URL extension.",
   "license": "MIT",
@@ -23,13 +23,13 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/mediawiki-ext-url/issues",
-    "source": "https://github.com/cmfstore/mediawiki-ext-url"
+    "issues": "https://github.com/zbox/mediawiki-ext-url/issues",
+    "source": "https://github.com/zbox/mediawiki-ext-url"
   },
   "require": {
     "php": ">=7.2",
     "composer/installers": "^1.0.1",
-    "cmfstore/mediawiki-ext-kernel": "*"
+    "zmarket/mediawiki-ext-kernel": "*"
   },
   "autoload": {
     "classmap": [
